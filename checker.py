@@ -26,7 +26,7 @@ def checker():
                                     (3) Gerador De Token
                                     (4) Sair
                                     ----------------------------
-                                            By VRaizerDev
+                                            By wffDuck
     ''')
     sel = int(input('Opcão:'))
     if sel == 1:
